@@ -81,6 +81,10 @@ $ python3 detect_mask.py --image images/1.jpeg
  
 ## :key: Results
 
+### The Accuracy after each Epoch is shown below:
+![](https://github.com/Aman161199/FaceMask_Detection/blob/master/Readme_images/Epoch_Score.png)
+
+
 #### Our model gave 93% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.2.0</code>
 
 ![](https://github.com/Aman161199/FaceMask_Detection/blob/master/Readme_images/Accuracy.png)
