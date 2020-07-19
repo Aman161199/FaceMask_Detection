@@ -1,5 +1,3 @@
-# FaceMask_Detection
-Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras
 <h1 align="center">Face Mask Detection</h1>
 
 <div align= "center">
@@ -17,5 +15,5 @@ Face Mask Detection system based on computer vision and deep learning using Open
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-(https://github.com/Aman161199/FaceMask_Detection/blob/master/FaceMask_Detection/Readme_images/)
+![Live Demo](https://github.com/Aman161199/FaceMask_Detection/blob/master/Readme_images/1.jpeg)
 
