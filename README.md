@@ -78,6 +78,17 @@ $ python3 train.py --dataset dataset
 ```
 $ python3 detect_mask.py --image images/1.jpeg
 ```
+
+3. Now detect the face masks in videos
+```
+$ python3 detect_video.py --image (Destination)
+```
+
+
+4. Now detect the face masks in video through webcam
+```
+$ python3 webcam.py 
+```
  
 ## :key: Results
 
